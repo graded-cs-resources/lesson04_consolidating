@@ -25,7 +25,7 @@ Each time you close and open VS Code you'll need to start the build over. It may
 ## Doing your assignment
 You have been assigned four required programming assignments. You can find the assignments in the folder called `problems`. The file names are `p1.ts`, `p2.ts`, `p3.ts`, and `p4.ts`, plus the OPTIONAL `p5.ts`.
 
-They increase in difficulty (at least I think they do). Here are some guidelines for my CURRENT thinking on grading this (this is always subject to change as I more fully understand the descriptors and assignment):
+The problems increase in difficulty (at least I think they do). Here are some guidelines for my CURRENT thinking on grading this (this is always subject to change as I more fully understand the descriptors and assignment):
 
 * To earn a 4, you will need to have made a solid attempt with at least partial success on all four required problems. Otherwise, the language of a 3 or lower will likely apply.
 * To earn a 5, all four assigned problems need to function as intended. These problems are designed to test proficiency, and a 5 demonstrates proficiency.
@@ -36,15 +36,18 @@ They increase in difficulty (at least I think they do). Here are some guidelines
   
   These are not the only ways to demonstrate mastery on this assignment, and a 6 or 7 may be granted to students who show mastery another way. I am intentionally NOT spelling out exactly what you need for a 7, so don't ask!
 
-## Handing in your assignment
+## Committing and Pushing (do this as often as you want! Regularly!)
+
+You should **commit** and **push** your code regularly using VS Code or Github Desktop. I am hoping to see multiple commits from each of you! At the very least, it would be a good idea to commit and push each time you complete a new problem, since there are four.
 
 ### VS Code method
 
-- [ ] Click the icon on the left that says "Source Control" when you hover over it. 
-- [ ] Then click the little "+" button next to any files you changed in that list. 
-- [ ] Type a message like "handing in" and click the check mark to commit. 
-- [ ] Finally, click the three dots and choose "push" to upload your change.
+- [ ] Click the icon on the left that says "Source Control" when you hover over it.
 
+- [ ] Then click the little "+" button next to any files you changed in that list. 
+- [ ] Type a message summarizing the save, something like "completed problem 1" or "handing in" or "just saving" and click the check mark to commit. 
+- [ ] Finally, click the three dots and choose "push" to upload your change. 
+  
 ## Github Desktop method (possibly easier?)
 
 - [ ] Open the assignment in Github Desktop
