@@ -1,0 +1,5 @@
+ports:
+- port: 9000
+
+tasks:
+  -  init: npm install -g browser-sync
