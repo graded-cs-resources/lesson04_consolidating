@@ -16,6 +16,7 @@
 Before you look at the assignments, set up your server and build.
 
 - [ ] Press Cmd-Shift-B or Ctrl-Shift-B to get the build window. Select `tsc:watch` from the list. This will make it so that your computer AUTOMATICALLY builds the typescript files whenver you save.
+  * Just so you know, the javascript files get put in a special folder called `build`, just to keep them out of your way. If that folder doesn't appear, something bad is happening. 
 - [ ] Click the "Go Live" button on the bottom to launch your live server.
 
 As long as you did both of those steps, your test page will *always, automatically stay updated!* Every time you save one of the typescript files you will get a fresh, ready to test page.
@@ -27,14 +28,14 @@ You have been assigned four required programming assignments. You can find the a
 
 The problems increase in difficulty (at least I think they do). Here are some guidelines for my CURRENT thinking on grading this (this is always subject to change as I more fully understand the descriptors and assignment):
 
-* To earn a 4, you will need to have made a solid attempt with at least partial success on all four required problems. Otherwise, the language of a 3 or lower will likely apply.
-* To earn a 5, all four assigned problems need to function as intended. These problems are designed to test proficiency, and a 5 demonstrates proficiency.
-* To earn a 6 or 7, you will need to show something *beyond proficiency*. SOME ways to potentially move beyond proficiency on this assignment might include:
+* To earn an **Approaching Proficiency**, you will need to have made a solid attempt with at least partial success on all four required problems. Otherwise, the language of **Progressing**, **Emerging**, or **Insufficient** will likely apply.
+* To earn a **Proficient**, all four assigned problems need to function as intended (with perhaps a few minor bugs on edge cases only). These problems are designed to test proficiency.
+* To earn an **Accomplished** or **Exemplary**, you will need to show something *beyond proficiency*. SOME ways to potentially move beyond proficiency on this assignment might include:
   * Particularly elegant, well-documented, and/or well-organized solutions to the four required problems
   * Doing some good work on the optional problem 5 (but this doesn't mean you have to do the whole thing)
   * Tweaking the `styles.css` file to make the site have your own unique visual style
   
-  These are not the only ways to demonstrate mastery on this assignment, and a 6 or 7 may be granted to students who show mastery another way. I am intentionally NOT spelling out exactly what you need for a 7, so don't ask!
+  These are not the only ways to demonstrate mastery on this assignment. I am intentionally NOT spelling out exactly what you need for an **Exemplary**, so don't ask!
 
 ## Committing and Pushing
 
