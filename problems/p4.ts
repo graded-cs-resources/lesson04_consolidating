@@ -20,7 +20,7 @@ let hourIsSet: boolean = false;
 // ... you problably want more variables...
 
 /** Your code goes in this function.*/
-export function go() {
+export function go():void {
   // You may want an "if" statement here...
   set_output(4, "You pushed the p4 button! But your code doesn't work yet.");
 } 

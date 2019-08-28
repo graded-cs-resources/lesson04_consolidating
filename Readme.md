@@ -23,13 +23,13 @@ As long as you did both of those steps, your test page will *always, automatical
 Each time you close and open VS Code you'll need to start the build over. It may also die on its own sometimes if left alone - just restart if it doesn't seem to be updating.
 
 ## Doing your assignment
-You have been assigned four required programming assignments. You can find the assignments in the folder called `problems`. The file names are `p1.ts`, `p2.ts`, `p3.ts`, and `p4.ts`. 
+You have been assigned four required programming assignments. You can find the assignments in the folder called `problems`. The file names are `p1.ts`, `p2.ts`, `p3.ts`, and `p4.ts`, plus the OPTIONAL `p5.ts`.
 
 They increase in difficulty (at least I think they do). Here are some guidelines for my CURRENT thinking on grading this (this is always subject to change as I more fully understand the descriptors and assignment):
 
-* To earn a 4, you will need to have made a solid attempt with at least partial success on all four required problems. Otherwise, the language of a 3 or lower will apply.
+* To earn a 4, you will need to have made a solid attempt with at least partial success on all four required problems. Otherwise, the language of a 3 or lower will likely apply.
 * To earn a 5, all four assigned problems need to function as intended. These problems are designed to test proficiency, and a 5 demonstrates proficiency.
-* To earn a 6 or 7, you will need to show something *beyond proficiency*. SOME ways to potentiallymove beyond proficiency on this assignment might include:
+* To earn a 6 or 7, you will need to show something *beyond proficiency*. SOME ways to potentially move beyond proficiency on this assignment might include:
   * Particularly elegant, well-documented, and/or well-organized solutions to the four required problems
   * Doing some good work on the optional problem 5 (but this doesn't mean you have to do the whole thing)
   * Tweaking the `styles.css` file to make the site have your own unique visual style

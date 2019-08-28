@@ -11,7 +11,7 @@ import { get_input, set_message, set_output } from "../lib/utils.js";
 
 set_message(2, "How many degrees Celsius?");
 
-export function go() { 
+export function go():void { 
   // start by making a variable that will hold the INPUT value...
   set_output(2, "You pushed the problem 2 button! But your code doesn't work yet.");
 } 

@@ -15,10 +15,10 @@ import { get_input, set_message, set_output } from "../lib/utils.js";
 
 // sets the initial values
 set_message(3, "Guess a number between 1 and 100.");
-let myNumber = randInt(1,100);
+let myNumber:number = randInt(1,100);
 
 /** Your code goes in this function. */
-export function go() {
+export function go():void {
   // You may want an "if" statement here, based on the hourIsSet variable.
   set_output(3, "You pushed the p3 button! But your code doesn't work yet.");
 }

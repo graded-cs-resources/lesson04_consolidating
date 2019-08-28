@@ -23,10 +23,10 @@ import { get_input, set_message, set_output } from "../lib/utils.js";
 set_message(1, "What do you want to see double?");
 
 /** A global variable to keep track of the button count */
-let button_count = 0;
+let button_count:number = 0;
 
 /** Edit this function to make the correct things happen as described above */
-export function go() {
+export function go():void {
   // the line below is probably helpful. The other one should be changed or replaced!
   let input:string = get_input(1); 
   

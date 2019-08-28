@@ -37,6 +37,6 @@
  *  Just document your thinking.
  */
 
- function go() {
+ function go():void {
 
  }
