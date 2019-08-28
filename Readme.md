@@ -41,7 +41,8 @@ The problems increase in difficulty (at least I think they do). Here are some gu
 You should **commit** and **push** your code regularly using VS Code or Github Desktop. I am hoping to see multiple commits from each of you! At the very least, it would be a good idea to commit and push each time you complete a new problem, since there are four.
 
 ### VS Code method
-<iframe title="YouTube video player" class="youtube-player" type="text/html" width="640" height="385" src="http://www.youtube.com/embed/0_k994KXDBQ" frameborder="0" allowFullScreen></iframe>
+
+![vscode commit animation](lib/vscode.gif)
 
 - [ ] Click the icon on the left that says "Source Control" when you hover over it.
 
