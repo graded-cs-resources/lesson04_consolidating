@@ -1,4 +1,4 @@
-import { get_input, set_message, set_output } from "./utils.js";
+import { get_input, set_message, set_output } from "../lib/utils.js";
 
 /** ======= PROBLEM 2 =========
  * In this problem you will create a simple converter that converts from degrees CELSISU

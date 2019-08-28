@@ -1,18 +1,11 @@
 /* This file determines the colors and so forth for the site. More later! */
 
+body {
+    font-size:14pt;
+}
 #title {
     color:blue;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
-}
-
-.output_area {
-    font-family: "Consolas","Inconsolata", "Menlo","Courier",monospace;
-    background-color: rgb(221, 221, 221);
-    border: 1px solid black;
-    min-height: 100px;
-    align-items:center;
-    display:flex;
-    justify-content:center;
 }
 
 .problem_area {
@@ -31,6 +24,20 @@
     text-align:center;
 }
 
+.output_area {
+    font-family: "Consolas","Inconsolata", "Menlo","Courier",monospace;
+    background-color: rgb(221, 221, 221);
+    border: 1px solid black;
+    min-height: 100px;
+    align-items:center;
+    display:flex;
+    justify-content:center;
+}
+
+.message {
+    font-size:1.5rem;
+    color: darkgreen;
+}
 h1,h2,h3,h4,h5,h6 {
     text-align:center;
 }

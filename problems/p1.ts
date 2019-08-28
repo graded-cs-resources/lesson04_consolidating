@@ -1,4 +1,4 @@
-import { get_input, set_message, set_output } from "./utils.js";
+import { get_input, set_message, set_output } from "../lib/utils.js";
 
 /* Further down this page, you will be given a problem to solve.
  * I have provided three utility functions to help you solve it.

@@ -1,4 +1,4 @@
-import { get_input, set_message, set_output } from "./utils.js";
+import { get_input, set_message, set_output } from "../lib/utils.js";
 
 /** ======= PROBLEM 3 =========
  * Program a "Guess My Number" game. 
@@ -20,7 +20,7 @@ let myNumber = randInt(1,100);
 /** Your code goes in this function. */
 export function go() {
   // You may want an "if" statement here, based on the hourIsSet variable.
-  set_output(3, "You pushed the button! But your code doesn't work yet.");
+  set_output(3, "You pushed the p3 button! But your code doesn't work yet.");
 }
 
 /** Generates a random integer. No need to understand this right now.*/

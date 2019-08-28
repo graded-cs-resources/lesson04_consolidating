@@ -1,4 +1,4 @@
-import { get_input, set_message, set_output } from "./utils.js";
+import { get_input, set_message, set_output } from "../lib/utils.js";
 
 /** ======= PROBLEM 4 =========
  * In this problem you will create a function that can calculate how many seconds
@@ -22,5 +22,5 @@ let hourIsSet: boolean = false;
 /** Your code goes in this function.*/
 export function go() {
   // You may want an "if" statement here...
-  set_output(4, "You pushed the button! But your code doesn't work yet.");
+  set_output(4, "You pushed the p4 button! But your code doesn't work yet.");
 } 
