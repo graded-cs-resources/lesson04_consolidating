@@ -42,8 +42,6 @@ You should **commit** and **push** your code regularly using VS Code or Github D
 
 ### VS Code method
 
-![vscode commit animation](lib/vscode.gif)
-
 - [ ] Click the icon on the left that says "Source Control" when you hover over it.
 
 - [ ] Then click the little "+" button next to any files you changed in that list. 
