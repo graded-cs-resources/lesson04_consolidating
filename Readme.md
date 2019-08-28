@@ -36,7 +36,7 @@ The problems increase in difficulty (at least I think they do). Here are some gu
   
   These are not the only ways to demonstrate mastery on this assignment, and a 6 or 7 may be granted to students who show mastery another way. I am intentionally NOT spelling out exactly what you need for a 7, so don't ask!
 
-## Committing and Pushing (do this as often as you want! Regularly!)
+## Committing and Pushing
 
 You should **commit** and **push** your code regularly using VS Code or Github Desktop. I am hoping to see multiple commits from each of you! At the very least, it would be a good idea to commit and push each time you complete a new problem, since there are four.
 
