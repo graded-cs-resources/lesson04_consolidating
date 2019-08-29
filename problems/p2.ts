@@ -7,6 +7,9 @@ import { get_input, set_message, set_output } from "../lib/utils.js";
  * 
  * One function that may be helpful here is the `parseFloat(*string*)` function,
  * which converts from a string to a decimal value you can use in calculations.
+ * 
+ * Another thing that might be helpful is the "toString()" method which converts
+ * a number variable to a string. 
  */
 
 set_message(2, "How many degrees Celsius?");
