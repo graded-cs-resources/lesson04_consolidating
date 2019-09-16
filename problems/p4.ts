@@ -17,10 +17,17 @@ import { get_input, set_message, set_output } from "../lib/utils.js";
 set_message(4, "What HOUR is it? (24 hour clock!)");
 
 let hourIsSet: boolean = false;
+let minIsSet: boolean = false;
+
+let hour:number;
+
 // ... you problably want more variables...
 
 /** Your code goes in this function.*/
 export function go():void {
-  // You may want an "if" statement here...
-  set_output(4, "You pushed the p4 button! But your code doesn't work yet.");
+  let hourIsSet: boolean = false;
+  if (hourIsSet) {
+    console.log("hour");
+
+  }
 } 
